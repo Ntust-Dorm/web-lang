@@ -1,3 +1,8 @@
-# ntust-dorm-lang
+# Ntust Dorm Repair Page Language Package
 
-The Language Package of https://dorm-ntust.tw
+## Web
+[Website](https://dorm-ntust.tw)
+
+## Language Contributor (sort by lang code)
+* English(en) - `sheiun` `jessie`
+* 繁體中文(zh-tw) - `sheiun`
