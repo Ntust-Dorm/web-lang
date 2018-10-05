@@ -139,6 +139,14 @@ var MLstrings = [
         繁體中文: "學校"
     },
     {
+        English: "Package",
+        繁體中文: "包裹"
+    },
+    {
+        English: "Repair Form",
+        繁體中文: "報修表單"
+    },
+    {
         English: "Contributor",
         繁體中文: "貢獻者"
     },
@@ -149,6 +157,10 @@ var MLstrings = [
     {
         English: "Back-End",
         繁體中文: "後端"
+    },
+    {
+        English: "Contributing Localization",
+        繁體中文: "貢獻本地化"
     },
     /* Form */
     {
