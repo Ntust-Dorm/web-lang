@@ -1,5 +1,7 @@
 # Ntust Dorm Repair Page Language Package
-![](https://img.shields.io/badge/ntust-OpenSource-green.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/ntust-OpenSource-green.svg">
+</p>
 
 ## Lang file
 [lang-strings](./lang-strings.js)
