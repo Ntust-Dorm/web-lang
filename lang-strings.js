@@ -1,52 +1,65 @@
 var MLstrings = [
     {
         English: "Repair Page of 2nd Dormitory | Taiwan Tech",
-        繁體中文: "第二學生宿舍報修頁面 | 台科"
+        繁體中文: "第二學生宿舍報修頁面 | 台科",
+        日本語: "第二学生寮**** | 台湾科技大学"
     },
     {
         English: "language:",
-        繁體中文: "語言："
+        繁體中文: "語言：",
+        日本語: "言葉"
     },
     {
         English: "Repair Page of 2nd Dormitory",
-        繁體中文: "第二學生宿舍報修頁面"
+        繁體中文: "第二學生宿舍報修頁面",
+        日本語: "第二学生寮****"
     },
     {
         English: "Request",
-        繁體中文: "報修"
+        繁體中文: "報修",
+        日本語: "申請する"
     },
     {
         English: "Menu",
-        繁體中文: "目錄"
+        繁體中文: "目錄",
+        日本語: "メニュー"
     },
     {
         English: "Request Repair",
-        繁體中文: "報修"
+        繁體中文: "報修",
+        日本語: "修理申請"
+        
     },
     {
         English: "Need a repair for your room or other things?",
-        繁體中文: "需要維修你的寢室或其他東西嗎？"
+        繁體中文: "需要維修你的寢室或其他東西嗎？",
+        日本語: "何がリペアーがいりますか？"
     },
     {
         English: "Request repair service conveniently online.",
-        繁體中文: "線上報修更方便。"
+        繁體中文: "線上報修更方便。",
+        日本語: "更に便利な****方"
     },
     {
         English: "Look More",
-        繁體中文: "查看更多"
+        繁體中文: "查看更多",
+        日本語: "もっと調べる"
     },
     /* Header of Table */
     {
         English: "Instant Preview",
-        繁體中文: "即時預覽"
+        繁體中文: "即時預覽",
+        日本語: "インスタント"
     },
     {
         English: "Notify the dorm center once a week.",
-        繁體中文: "每週送到宿管中心登記一次。"
+        繁體中文: "每週送到宿管中心登記一次。",
+        日本語: "毎週一回、自動的に寮の管理所に申請する。"
     },
     {
         English: "Last notifying time:",
-        繁體中文: "上次通知時間："
+        繁體中文: "上次通知時間：",
+        日本語: "前回の登録時間"
     },
     /* Table */
     {
@@ -64,19 +77,23 @@ var MLstrings = [
     /* Form */
     {
         English: "Floor",
-        繁體中文: "樓層"
+        繁體中文: "樓層",
+        日本語: "階層"
     },
     {
         English: "Room",
-        繁體中文: "房號"
+        繁體中文: "房號",
+        日本語: "ルーム"
     },
     {
         English: "Bed",
-        繁體中文: "床號"
+        繁體中文: "床號",
+        日本語: "ベッド"
     },
     {
         English: "Description",
-        繁體中文: "描述"
+        繁體中文: "描述",
+        日本語: "描写"
     },
     /* Map */
     {
