@@ -33,7 +33,7 @@ var MLstrings = [
     {
         English: "Need a repair for your room or other things?",
         繁體中文: "需要維修你的寢室或其他東西嗎？",
-        日本語: "何か修理はいりますか？"
+        日本語: "何か修理はいりませんか？"
     },
     {
         English: "Request repair service conveniently online.",
@@ -107,7 +107,7 @@ var MLstrings = [
     {
         English: "If you are in hurry. Please go to dorm center directly.",
         繁體中文: "如果你趕時間，請直接到宿管中心。",
-        日本語: "急いでいるたら、直接寮の管理所へ行ってください。"
+        日本語: "緊急の場合は直接寮の管理所へ行ってください。"
     },
     {
         English: "3rd Dormitory 1F",
@@ -123,7 +123,7 @@ var MLstrings = [
     {
         English: "If you have any question of accommodation, contact the residence advisor priority.",
         繁體中文: "如何你有任何住宿上的問題，請優先聯絡樓長。",
-        日本語: "もし寮に関して質問があれば、先に階の委員を聞いてください。"
+        日本語: "もし寮に関して質問があれば、先に階の委員に聞いてください。"
     },
     {
         English: "Dorm Manager",
@@ -144,7 +144,7 @@ var MLstrings = [
     {
         English: "If you find the bug, you can click the button to report it.",
         繁體中文: "如果你發現錯誤，你可以點擊按鈕回報。",
-        日本語: "もし何か間違を発見した場合、このボータンを押してください。"
+        日本語: "もし何かバグを発見した場合、このボータンを押して私たちに教えてもらえるなら、嬉しいです。"
     },
     {
         English: "Or you want more information, just go to dorm page.",
