@@ -241,6 +241,6 @@ var MLstrings = [
     {
         English: "Others & Not Sure",
         繁體中文: "其它 & 不確定",
-        日本語: "その他 & 知らん"
+        日本語: "その他"
     },
 ];
