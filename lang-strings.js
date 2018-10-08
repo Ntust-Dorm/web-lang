@@ -63,6 +63,10 @@ var MLstrings = [
     },
     /* Table */
     {
+        English: "Who used this websites.",
+        繁體中文: "誰用過這個網站。"  
+    },
+    {
         English: "Timestamp",
         繁體中文: "時間戳記",
         日本語: "時間"
