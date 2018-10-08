@@ -15,3 +15,4 @@
 ## Contributor (sort by lang code)
 * English(en) - `sheiun` `jessie`
 * 繁體中文(zh-tw) - `sheiun`
+* 日本語(jp) - `gj94gj94ao4`
